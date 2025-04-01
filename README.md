@@ -1,5 +1,5 @@
 Hi, I’m @TJSully12
-I’m interested in learning C# with Angular to enhance my career and move from my Sr QA Analyst position to Software Developer
+I’m interested in learning C# with Angular to enhance my career and move from my Sr QA Analyst position to Test Automation Developer
 I’m currently learning C#, Visual Studio 2022
 reach me Via e-mail, tjsully@bellsouth.net
 On my spare time I enjoy playing Golf and Gardening
